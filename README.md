@@ -10,3 +10,4 @@ Each commit is tagged with the corresponding lesson of the tutorial:
 - Using Shared Components
 - Create Dynamic Pages
 - Clean URLs with Route Masking
+- Server Side Support for Clean URLs

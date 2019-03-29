@@ -11,3 +11,4 @@ Each commit is tagged with the corresponding lesson of the tutorial:
 - Create Dynamic Pages
 - Clean URLs with Route Masking
 - Server Side Support for Clean URLs
+- Fetching Data for Pages

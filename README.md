@@ -12,3 +12,4 @@ Each commit is tagged with the corresponding lesson of the tutorial:
 - Clean URLs with Route Masking
 - Server Side Support for Clean URLs
 - Fetching Data for Pages
+- Styling Components

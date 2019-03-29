@@ -13,3 +13,4 @@ Each commit is tagged with the corresponding lesson of the tutorial:
 - Server Side Support for Clean URLs
 - Fetching Data for Pages
 - Styling Components
+- Deploying a Next.js App
